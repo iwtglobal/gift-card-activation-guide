@@ -122,13 +122,13 @@ Delivery and activation are often combined after payment; the same ledger and st
 They sell and activate under issuer rules; multi-tier float and commission sit beside activation events.
 
 **How does this relate to MoboGage / EVD System?**  
-EVD System is MoboGage’s electronic voucher distribution and management platform family; gift card activation is part of how digital value products move from inventory to redeem. See the [electronic voucher management system](https://evdsystem.com/electronic-voucher-management-system/) overview when evaluating product fit.
+EVD System is MoboGage’s electronic voucher distribution and management platform family; gift card activation is part of how digital value products move from inventory to redeem. See the [electronic voucher management system](https://evdsystem.com/electronic-voucher-management-system-evd-telecom/) overview when evaluating product fit.
 
 ---
 
 ## Further Reading / Related Industry Resources
 
-- [Electronic voucher management system](https://evdsystem.com/electronic-voucher-management-system/) — EVMS product context  
+- [Electronic voucher management system](https://evdsystem.com/electronic-voucher-management-system-evd-telecom/) — EVMS product context  
 - [EVD System home](https://evdsystem.com/) — platform overview for digital value distribution  
 
 See also [docs/ARCHITECTURE.md](./docs/ARCHITECTURE.md) for a component view.

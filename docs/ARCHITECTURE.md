@@ -35,4 +35,4 @@ High-level reference for evaluating **gift card activation** controls inside gif
 - Reverse / reissue / block  
 - First and last redeem markers  
 
-Live product reading: [EVMS page](https://evdsystem.com/electronic-voucher-management-system/), [evdsystem.com](https://evdsystem.com/).
+Live product reading: [EVMS page](https://evdsystem.com/electronic-voucher-management-system-evd-telecom/), [evdsystem.com](https://evdsystem.com/).
